@@ -39,3 +39,5 @@ La cadence de rafraichissement de l'animation est de 60 images par secondes.
 Un effet de flou peut être activé lorsqu'une touche du clavier est enfoncée.
 
 L'effet de flou est généré en dessinant un carré noir semi-transparent par-dessus l'ensemble de la fenêtre d'affichage à chaque mise à jour de l'animation.
+
+L'idée de ce programme est de montrer de quoi peut avoir l'air un programme plus complet avec de l'animation et de l'interactivité.
