@@ -35,5 +35,5 @@ https://hello.processing.org
 *Hello World! Processing* (documentaire)  
 https://vimeo.com/60735314
 
-*the Coding Train with Daniel Shiffman* (chaine vidéo YouTube sur la programmation avec Processing)  
+*The Coding Train with Daniel Shiffman* (chaîne vidéo YouTube sur la programmation avec Processing)  
 https://thecodingtrain.com
