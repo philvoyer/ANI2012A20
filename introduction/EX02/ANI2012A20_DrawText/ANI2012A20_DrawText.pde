@@ -8,10 +8,14 @@ size(256, 256);
 fill(255, 127, 63);
 
 // fonction qui configure l'alignement du texte
-textAlign(CENTER);
+textAlign(CENTER); // 'CENTER' est une variable constante définie par Processing, les constantes sont souvent en lettres majuscules
 
 // fonction qui configure la taille du texte
 textSize(32);
 
 // fonction pour afficher du texte (premier paramètre) à une position X (second paramètre) et Y (troisième paramètre)
 text("ANI-2012", width / 2, height / 2);
+
+// le caractère '"' permet de délimiter une chaîne de caractère (du texte)
+// le caractère '/' est l'opérateur de division, il permet de calculer la position centrale de la fenêtre d'affichage
+// la largeur 'width' et la hauteur 'height' sont divisées par 2, puis le résultat des calculs est passé à la fonction sous forme de paramètres
