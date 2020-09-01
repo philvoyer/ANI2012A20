@@ -2,7 +2,7 @@
 // Animation d'un carré qui tourne autour du centre de la fenêtre d'affichage avec un effet de flou en option.
 
 // La première section du programme sert à la déclaration et l'initialisation des variables.
-// Une variable est un espace mémoire qui contient une donnée qui est référencé par un identifiant.
+// Une variable est un espace mémoire qui contient une donnée qui est référencée par un identifiant.
 // Le mot clé 'int' permet de déclarer une variable numérique de type nombre entier (ex. 0, 1, 2, 3).
 // Le mot clé 'float' permet de déclarer une variable numérique de type nombre réel (ex. 0.0, 0.1, 0.2, 1.0, 1.618, 3.14159).
 
