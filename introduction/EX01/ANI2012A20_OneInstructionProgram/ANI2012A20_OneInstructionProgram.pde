@@ -1,4 +1,4 @@
-// ANI2012A19_OneInstructionProgram.pde
+// ANI2012A20_OneInstructionProgram.pde
 // Trace une ligne entre le coin supérieur gauche et le coin inférieur droit de la fenêtre d'affichage.
 
 line(0, 0, width, height);
