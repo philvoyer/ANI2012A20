@@ -10,7 +10,7 @@ line(0, 0, width, height);
 // Les deux derniers paramètres de la fonction sont la position en X et Y de la fin de la ligne.
 // Le mot 'width' est une variable de Processing qui contient la largeur en pixels de la fenêtre d'affichage.
 // Le mot 'height' est une variable de Processing qui contient la hauteur en pixels de la fenêtre d'affichage.
-// Une variable est un espace mémoire qui contient une donnée qui est référencé par un identifiant.
+// Une variable est un espace mémoire qui contient une donnée qui est référencée par un identifiant.
 // Toutes les lignes du programme qui commence par '//' sont des commentaires.
 // Les commentaires sont ignorés lors de la compilation d'un programme, ainsi que les lignes vides.
 // Ce programme à donc une seule instruction, malgré ses 17 lignes de code.
