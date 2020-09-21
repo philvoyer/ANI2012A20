@@ -1,4 +1,4 @@
-// ANI2012A20_DrawTriangle.pde
+// ANI2012A20_DrawTriangleRandom.pde
 // Dessine une séquence de triangles dont les trois sommets ont des positions aléatoires.
 
 size(512, 512);
