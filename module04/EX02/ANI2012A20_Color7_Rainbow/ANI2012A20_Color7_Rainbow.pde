@@ -7,9 +7,9 @@
 int resolutionX = 512;                 // largeur de la fenêtre d'affichage en pixels
 int resolutionY = 512;                 // hauteur de la fenêtre d'affichage en pixels
 int imageScale = 1;                    // proportion de l'image par rapport à la fenêtre d'affichage (permet d'exporter une image plus grande)
-float rainbowOriginRatioX = 1.0 / 2.0; // ratio de positionnement de l'arc-en-ciel sur l'axe horizontal
-float rainbowOriginRatioY = 1.0 / 3.0; // ratio de positionnement de l'arc-en-ciel sur l'axe vertical
-float borderOffsetWidth = 1.0 / 16.0;  // distance entre les bordures horizontales de l'image et le début de l'arc-en-ciel
+float rainbowOriginRatioX = 1.0f / 2.0f; // ratio de positionnement de l'arc-en-ciel sur l'axe horizontal
+float rainbowOriginRatioY = 1.0f / 3.0f; // ratio de positionnement de l'arc-en-ciel sur l'axe vertical
+float borderOffsetWidth = 1.0f / 16.0f;  // distance entre les bordures horizontales de l'image et le début de l'arc-en-ciel
 
 // variable globale du programme
 PGraphics renderbuffer;                // image en mémoire dans laquelle l'arc-en-ciel sera dessiné
