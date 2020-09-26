@@ -56,3 +56,21 @@ https://processing.org/reference/PImage.html
 
 Classe pour les polices de caractères (**PFont**)  
 https://processing.org/reference/PFont.html
+
+Fonction pour configurer la taille de la fenêtre d’affichage  
+https://processing.org/reference/size_.html
+
+Fonction pour assigner une couleur d’arrière-plan  
+https://www.processing.org/reference/background_.html
+
+Fonction pour importer une image en mémoire à partir d’un fichier  
+https://processing.org/reference/createImage_.html
+
+Fonction pour dessiner une image dans la fenêtre d’affichage  
+https://processing.org/reference/image_.html
+
+Fonction pour afficher du texte dans la fenêtre d’affichage  
+https://processing.org/reference/text_.html
+
+Fonction pour exporter le contenu de la fenêtre d’affichage dans un fichier image  
+https://www.processing.org/reference/saveFrame_.html
