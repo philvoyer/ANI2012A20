@@ -10,6 +10,8 @@ float frequency = 0.15f;
 
 int alpha = 31;
 
+boolean isRecording = false;
+
 // variable
 Automaton ca;
 
@@ -47,6 +49,9 @@ void setup()
 void draw()
 {
   ca.update();
+
+  if (isRecording == true)
+    saveFrame("render####.png");
 }
 
 void changeSystem(int id)
@@ -90,9 +95,17 @@ void keyReleased()
   else if (key == ' ')
     ca.restart();
   else if (key == 'r')
-    saveFrame("render####.png");
+    isRecording = false;
   else
     changeSystem(randomCellType());
+
+  println("released " + frameCount);
+}
+
+void keyPressed()
+{
+  if (key == 'r')
+    isRecording = true;
 }
 
 void mouseReleased()
