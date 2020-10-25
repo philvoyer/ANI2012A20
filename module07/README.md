@@ -24,11 +24,13 @@ Cet exemple présente une comparaison des points en commun au niveau sémantique
 
 ### Exemple 7.6
 
-Le langage **Python** permet de créer des structures de contrôle logiques, itératives et des fonctions avec un style minimaliste et flexible. Certaines variations de ces structures de contrôle particulièrement élégantes sont qualifiées de '*pythonic*', car elles seraient difficiles, voire impossibles à reproduire dans d'autres langages avec autant de simplicité.
+Le langage **Python** permet de créer des structures de contrôle logiques, itératives et des fonctions avec un style minimaliste et flexible.
+
+Certaines variations de ces structures de contrôle particulièrement élégantes sont qualifiées de '*pythonic*', car elles seraient difficiles, voire impossibles à reproduire dans d'autres langages avec autant de simplicité.
 
 ### Exemple 7.7
 
-Un script **Python** peut invoquer les fonctionnalités de création de contenu de Maya pour par exemple générer procéduralement des maillages géométriques 3D comme des cubes, des sphères ou tous autres types de géométries offertes par le logiciel.
+Un script **Python** peut invoquer les fonctionnalités de création de contenu de **Maya** pour par exemple générer procéduralement des maillages géométriques 3D comme des cubes, des sphères ou tous autres types de géométries offertes par le logiciel.
 
 ### Exemple 7.8
 
