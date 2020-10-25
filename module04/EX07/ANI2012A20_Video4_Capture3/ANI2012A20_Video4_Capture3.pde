@@ -1,4 +1,4 @@
-// ANI2012A19_Video4_Capture3.pde
+// ANI2012A20_Video4_Capture3.pde
 // Exemple de capture vidéo avec une caméra et filtrage (touches 1-6).
 // Dépendance : Video 1.0.1 | GStreamer-based video library for Processing.
 
