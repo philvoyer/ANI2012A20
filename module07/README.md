@@ -48,6 +48,6 @@ La géométrie du cube a ensuite été exportée dans un fichier avec l'extensio
 
 ### Exemple 7.10
 
-Cet exemple présente une scène **Unity** où un échiquier est généré par programmation à partir de deux prefabs et d'un script **C#**.
+Cet exemple présente une scène **Unity** où un échiquier est généré par programmation à partir de deux *prefabs* et d'un script **C#**.
 
 La scène peut être animée par oscillation et différentes interactivités au clavier permettent de déplacer la case active, changer le point de vue et la distance de la caméra ainsi que de régénérer des grilles de différentes résolutions.
