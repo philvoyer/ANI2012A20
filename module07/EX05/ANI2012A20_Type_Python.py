@@ -23,7 +23,6 @@ class SubEntity(Entity):
     #...
     pass
 
-
 obj1 = Entity("objet 1")
 obj2 = SubEntity("objet 2", 3, 4)
 
