@@ -16,7 +16,7 @@ Cet exemple présente une comparaison des points en commun au niveau sémantique
 
 ### Exemple 7.4
 
-Cet exemple présente une comparaison des points en commun au niveau sémantique et des différences mineures au niveau syntaxique entre trois différents langages de programmation (*Java*/*Processing*, *C#*/*Unity* et *Python*/*Maya*) par rapport à l'utilisation de tableau d’une, deux ou trois dimensions (/array/).
+Cet exemple présente une comparaison des points en commun au niveau sémantique et des différences mineures au niveau syntaxique entre trois différents langages de programmation (*Java*/*Processing*, *C#*/*Unity* et *Python*/*Maya*) par rapport à l'utilisation de tableau d’une, deux ou trois dimensions (*array*).
 
 ### Exemple 7.5
 
@@ -38,9 +38,9 @@ Exemple d'une scène minimaliste dans *Unity*, avec une caméra qui regarde en d
 
 ### Exemple 7.9
 
-Dans cet exemple, nous faisons la démonstration de l'utilisation du concept de '/prefab/', c'est-à-dire un fichier de contenu externe au projet *Unity* qui peut être chargé dans une scène puis instancié par programmation.
+Dans cet exemple, nous faisons la démonstration de l'utilisation du concept de '*prefab*', c'est-à-dire un fichier de contenu externe au projet *Unity* qui peut être chargé dans une scène puis instancié par programmation.
 
-Le /prefab/ est tout simplement un cube dont la géométrie a été générée dans *Maya* à partir d'un des scripts *Python* de l'exemple précédent.
+Le *prefab* est tout simplement un cube dont la géométrie a été générée dans *Maya* à partir d'un des scripts *Python* de l'exemple précédent.
 
 La géométrie du cube a ensuite été exportée dans un fichier avec l'extension *.fbx*, soit le format de fichier le plus approprié pour échanger du contenu entre *Maya* et *Unity*.
 
