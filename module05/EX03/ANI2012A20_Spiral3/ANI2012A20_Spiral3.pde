@@ -1,4 +1,4 @@
-// ANI2012A19_Spiral3.pde
+// ANI2012A20_Spiral3.pde
 // Technique similaire à l'exemple Spiral2 mais avec variation aléatoire de la valeur incrémentale de l'angle et de l'amplitude.
 
 // paramètres
