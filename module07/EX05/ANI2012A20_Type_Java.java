@@ -37,6 +37,7 @@ class Entity
   }
 }
 
+
 // classe enfant
 class SubEntity extends Entity
 {
