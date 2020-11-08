@@ -14,7 +14,7 @@ import maya.mel as mm
 import maya.utils as mu
 
 # 2. ajouter un répertoire local à la liste des chemins d'accès (remplacer par un chemin qui existe sur votre ordinateur)
-localScriptFolder = '/Users/philvoyer/Documents/Dev/Python/scripts'
+localScriptFolder = '/.../scripts'
 
 if os.path.isdir(localScriptFolder):
   if not localScriptFolder in sys.path:
