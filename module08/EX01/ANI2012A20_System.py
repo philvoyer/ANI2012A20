@@ -88,15 +88,15 @@ print "<variable d'environnement>"
 print "\n<afficher les chemins d'accès utilisés par Maya>"
 
 print "\n<maya path>"
-print "\t%s" % maya.cmds.internalVar(userAppDir = True)
-print "\t%s" % maya.cmds.internalVar(userScriptDir = True)
-print "\t%s" % maya.cmds.internalVar(userPrefDir = True)
-print "\t%s" % maya.cmds.internalVar(userPresetsDir = True)
-print "\t%s" % maya.cmds.internalVar(userShelfDir = True)
-print "\t%s" % maya.cmds.internalVar(userMarkingMenuDir = True)
-print "\t%s" % maya.cmds.internalVar(userBitmapsDir = True)
-print "\t%s" % maya.cmds.internalVar(userTmpDir = True)
-print "\t%s" % maya.cmds.internalVar(userWorkspaceDir = True)
+print "\t%s" % maya.cmds.internalVar(userAppDir=True)
+print "\t%s" % maya.cmds.internalVar(userScriptDir=True)
+print "\t%s" % maya.cmds.internalVar(userPrefDir=True)
+print "\t%s" % maya.cmds.internalVar(userPresetsDir=True)
+print "\t%s" % maya.cmds.internalVar(userShelfDir=True)
+print "\t%s" % maya.cmds.internalVar(userMarkingMenuDir=True)
+print "\t%s" % maya.cmds.internalVar(userBitmapsDir=True)
+print "\t%s" % maya.cmds.internalVar(userTmpDir=True)
+print "\t%s" % maya.cmds.internalVar(userWorkspaceDir=True)
 print "<maya path>"
 
 print "\n<afficher la liste des chemins d'accès du système>"
